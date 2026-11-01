@@ -622,6 +622,7 @@ These are possible extensions, not features currently implemented in the project
 No explicit open-source license is defined in the supplied project files. Add a `LICENSE` file before distributing the project under a specific open-source license.
 
 ---
+Gemini Studio
 
 **The Tiebreaker — AI Decision Engine**
 
